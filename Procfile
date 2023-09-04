@@ -1,0 +1,1 @@
+web: uvicorn buildpack_test.app:app
